@@ -1,0 +1,12 @@
+{
+  "name": "Primary-School_Logic",
+  "description": "小学业务逻辑层",
+  "author": "zhiqiang@guanghe.tv",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "redux": "^4.0.0",
+    "redux-observable": "^1.0.0",
+    "rxjs": "^6.3.2"
+  }
+}
